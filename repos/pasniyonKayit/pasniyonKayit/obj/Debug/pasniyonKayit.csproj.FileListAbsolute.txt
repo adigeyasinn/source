@@ -1,0 +1,10 @@
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\bin\Debug\pasniyonKayit.exe.config
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\bin\Debug\pasniyonKayit.exe
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\bin\Debug\pasniyonKayit.pdb
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\obj\Debug\pasniyonKayit.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\obj\Debug\pasniyonKayit.Form1.resources
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\obj\Debug\pasniyonKayit.Properties.Resources.resources
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\obj\Debug\pasniyonKayit.csproj.GenerateResource.cache
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\obj\Debug\pasniyonKayit.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\obj\Debug\pasniyonKayit.exe
+C:\Users\feda1\source\repos\pasniyonKayit\pasniyonKayit\obj\Debug\pasniyonKayit.pdb

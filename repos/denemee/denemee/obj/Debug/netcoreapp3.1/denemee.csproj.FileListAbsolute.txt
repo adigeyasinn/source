@@ -1,0 +1,13 @@
+C:\Users\feda1\source\repos\denemee\denemee\bin\Debug\netcoreapp3.1\denemee.exe
+C:\Users\feda1\source\repos\denemee\denemee\bin\Debug\netcoreapp3.1\denemee.deps.json
+C:\Users\feda1\source\repos\denemee\denemee\bin\Debug\netcoreapp3.1\denemee.runtimeconfig.json
+C:\Users\feda1\source\repos\denemee\denemee\bin\Debug\netcoreapp3.1\denemee.runtimeconfig.dev.json
+C:\Users\feda1\source\repos\denemee\denemee\bin\Debug\netcoreapp3.1\denemee.dll
+C:\Users\feda1\source\repos\denemee\denemee\bin\Debug\netcoreapp3.1\denemee.pdb
+C:\Users\feda1\source\repos\denemee\denemee\obj\Debug\netcoreapp3.1\denemee.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\denemee\denemee\obj\Debug\netcoreapp3.1\denemee.AssemblyInfoInputs.cache
+C:\Users\feda1\source\repos\denemee\denemee\obj\Debug\netcoreapp3.1\denemee.AssemblyInfo.cs
+C:\Users\feda1\source\repos\denemee\denemee\obj\Debug\netcoreapp3.1\denemee.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\denemee\denemee\obj\Debug\netcoreapp3.1\denemee.dll
+C:\Users\feda1\source\repos\denemee\denemee\obj\Debug\netcoreapp3.1\denemee.pdb
+C:\Users\feda1\source\repos\denemee\denemee\obj\Debug\netcoreapp3.1\denemee.genruntimeconfig.cache

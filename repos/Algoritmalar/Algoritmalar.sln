@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmalar", "Algoritmalar\Algoritmalar.csproj", "{D3AEA99C-85AE-4AE4-9308-3FA8133A8AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AEA99C-85AE-4AE4-9308-3FA8133A8AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AEA99C-85AE-4AE4-9308-3FA8133A8AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AEA99C-85AE-4AE4-9308-3FA8133A8AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AEA99C-85AE-4AE4-9308-3FA8133A8AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6622DD88-6282-4399-A3D6-54585108A5DD}
+	EndGlobalSection
+EndGlobal

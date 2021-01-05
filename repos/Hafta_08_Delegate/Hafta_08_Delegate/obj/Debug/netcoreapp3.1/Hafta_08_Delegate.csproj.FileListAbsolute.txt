@@ -1,0 +1,13 @@
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\bin\Debug\netcoreapp3.1\Hafta_08_Delegate.exe
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\bin\Debug\netcoreapp3.1\Hafta_08_Delegate.deps.json
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\bin\Debug\netcoreapp3.1\Hafta_08_Delegate.runtimeconfig.json
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\bin\Debug\netcoreapp3.1\Hafta_08_Delegate.runtimeconfig.dev.json
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\bin\Debug\netcoreapp3.1\Hafta_08_Delegate.dll
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\bin\Debug\netcoreapp3.1\Hafta_08_Delegate.pdb
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\obj\Debug\netcoreapp3.1\Hafta_08_Delegate.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\obj\Debug\netcoreapp3.1\Hafta_08_Delegate.AssemblyInfoInputs.cache
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\obj\Debug\netcoreapp3.1\Hafta_08_Delegate.AssemblyInfo.cs
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\obj\Debug\netcoreapp3.1\Hafta_08_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\obj\Debug\netcoreapp3.1\Hafta_08_Delegate.dll
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\obj\Debug\netcoreapp3.1\Hafta_08_Delegate.pdb
+C:\Users\feda1\source\repos\Hafta_08_Delegate\Hafta_08_Delegate\obj\Debug\netcoreapp3.1\Hafta_08_Delegate.genruntimeconfig.cache

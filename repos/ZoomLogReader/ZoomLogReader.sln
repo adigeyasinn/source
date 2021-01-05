@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoomLogReader", "ZoomLogReader\ZoomLogReader.csproj", "{CFA4C8D1-851C-4858-A4E0-054B1303CCCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta06_AdoNet", "Hafta06_AdoNet\Hafta06_AdoNet.csproj", "{F677AB7D-D137-4742-9275-B0DA68CFC3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA4C8D1-851C-4858-A4E0-054B1303CCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA4C8D1-851C-4858-A4E0-054B1303CCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA4C8D1-851C-4858-A4E0-054B1303CCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA4C8D1-851C-4858-A4E0-054B1303CCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F677AB7D-D137-4742-9275-B0DA68CFC3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F677AB7D-D137-4742-9275-B0DA68CFC3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F677AB7D-D137-4742-9275-B0DA68CFC3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F677AB7D-D137-4742-9275-B0DA68CFC3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1512FEE0-327E-40B8-A7FF-632AE7F7DEE6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\bin\Debug\LibraryDatabaseFirst.exe.config
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\bin\Debug\LibraryDatabaseFirst.exe
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\bin\Debug\LibraryDatabaseFirst.pdb
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\obj\Debug\LibraryDatabaseFirst.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\obj\Debug\LibraryDatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\obj\Debug\LibraryDatabaseFirst.csproj.CopyComplete
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\obj\Debug\LibraryDatabaseFirst.exe
+C:\Users\feda1\source\repos\EntitiyFramework\LibraryDatabaseFirst\obj\Debug\LibraryDatabaseFirst.pdb

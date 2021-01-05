@@ -1,0 +1,13 @@
+C:\Users\feda1\source\repos\DataBase\DataBase\bin\Debug\netcoreapp3.1\DataBase.exe
+C:\Users\feda1\source\repos\DataBase\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\feda1\source\repos\DataBase\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.json
+C:\Users\feda1\source\repos\DataBase\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.dev.json
+C:\Users\feda1\source\repos\DataBase\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\feda1\source\repos\DataBase\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\feda1\source\repos\DataBase\DataBase\obj\Debug\netcoreapp3.1\DataBase.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\DataBase\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\feda1\source\repos\DataBase\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\feda1\source\repos\DataBase\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\DataBase\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\feda1\source\repos\DataBase\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\feda1\source\repos\DataBase\DataBase\obj\Debug\netcoreapp3.1\DataBase.genruntimeconfig.cache

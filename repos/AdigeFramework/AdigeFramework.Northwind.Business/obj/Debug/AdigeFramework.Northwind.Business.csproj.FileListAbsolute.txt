@@ -1,0 +1,6 @@
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business\bin\Debug\AdigeFramework.Northwind.Business.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business\bin\Debug\AdigeFramework.Northwind.Business.pdb
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business\obj\Debug\AdigeFramework.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business\obj\Debug\AdigeFramework.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business\obj\Debug\AdigeFramework.Northwind.Business.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business\obj\Debug\AdigeFramework.Northwind.Business.pdb

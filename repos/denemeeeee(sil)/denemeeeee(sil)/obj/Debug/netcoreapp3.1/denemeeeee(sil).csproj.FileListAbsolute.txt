@@ -1,0 +1,13 @@
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\bin\Debug\netcoreapp3.1\denemeeeee(sil).exe
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\bin\Debug\netcoreapp3.1\denemeeeee(sil).deps.json
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\bin\Debug\netcoreapp3.1\denemeeeee(sil).runtimeconfig.json
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\bin\Debug\netcoreapp3.1\denemeeeee(sil).runtimeconfig.dev.json
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\bin\Debug\netcoreapp3.1\denemeeeee(sil).dll
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\bin\Debug\netcoreapp3.1\denemeeeee(sil).pdb
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\obj\Debug\netcoreapp3.1\denemeeeee(sil).csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\obj\Debug\netcoreapp3.1\denemeeeee(sil).AssemblyInfoInputs.cache
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\obj\Debug\netcoreapp3.1\denemeeeee(sil).AssemblyInfo.cs
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\obj\Debug\netcoreapp3.1\denemeeeee(sil).csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\obj\Debug\netcoreapp3.1\denemeeeee(sil).dll
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\obj\Debug\netcoreapp3.1\denemeeeee(sil).pdb
+C:\Users\feda1\source\repos\denemeeeee(sil)\denemeeeee(sil)\obj\Debug\netcoreapp3.1\denemeeeee(sil).genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\feda1\source\repos\ReCap\ReCap\bin\Debug\netcoreapp3.1\ReCap.exe
+C:\Users\feda1\source\repos\ReCap\ReCap\bin\Debug\netcoreapp3.1\ReCap.deps.json
+C:\Users\feda1\source\repos\ReCap\ReCap\bin\Debug\netcoreapp3.1\ReCap.runtimeconfig.json
+C:\Users\feda1\source\repos\ReCap\ReCap\bin\Debug\netcoreapp3.1\ReCap.runtimeconfig.dev.json
+C:\Users\feda1\source\repos\ReCap\ReCap\bin\Debug\netcoreapp3.1\ReCap.dll
+C:\Users\feda1\source\repos\ReCap\ReCap\bin\Debug\netcoreapp3.1\ReCap.pdb
+C:\Users\feda1\source\repos\ReCap\ReCap\obj\Debug\netcoreapp3.1\ReCap.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\ReCap\ReCap\obj\Debug\netcoreapp3.1\ReCap.AssemblyInfoInputs.cache
+C:\Users\feda1\source\repos\ReCap\ReCap\obj\Debug\netcoreapp3.1\ReCap.AssemblyInfo.cs
+C:\Users\feda1\source\repos\ReCap\ReCap\obj\Debug\netcoreapp3.1\ReCap.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\ReCap\ReCap\obj\Debug\netcoreapp3.1\ReCap.dll
+C:\Users\feda1\source\repos\ReCap\ReCap\obj\Debug\netcoreapp3.1\ReCap.pdb
+C:\Users\feda1\source\repos\ReCap\ReCap\obj\Debug\netcoreapp3.1\ReCap.genruntimeconfig.cache

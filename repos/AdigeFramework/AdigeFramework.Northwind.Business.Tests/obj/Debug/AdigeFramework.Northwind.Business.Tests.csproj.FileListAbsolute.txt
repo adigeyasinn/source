@@ -1,0 +1,14 @@
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\bin\Debug\AdigeFramework.Northwind.Business.Tests.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\bin\Debug\AdigeFramework.Northwind.Business.Tests.pdb
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\obj\Debug\AdigeFramework.Northwind.Business.Tests.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\obj\Debug\AdigeFramework.Northwind.Business.Tests.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\obj\Debug\AdigeFramework.Northwind.Business.Tests.csproj.CopyComplete
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\obj\Debug\AdigeFramework.Northwind.Business.Tests.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Business.Tests\obj\Debug\AdigeFramework.Northwind.Business.Tests.pdb

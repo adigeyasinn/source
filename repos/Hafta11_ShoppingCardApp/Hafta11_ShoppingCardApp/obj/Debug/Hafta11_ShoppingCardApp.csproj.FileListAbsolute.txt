@@ -1,0 +1,2 @@
+C:\Users\feda1\source\repos\Hafta11_ShoppingCardApp\Hafta11_ShoppingCardApp\obj\Debug\Hafta11_ShoppingCardApp.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\Hafta11_ShoppingCardApp\Hafta11_ShoppingCardApp\obj\Debug\Hafta11_ShoppingCardApp.csproj.CoreCompileInputs.cache

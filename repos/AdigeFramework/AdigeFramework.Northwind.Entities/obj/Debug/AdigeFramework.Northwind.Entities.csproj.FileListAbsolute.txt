@@ -1,0 +1,16 @@
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\AdigeFramework.Northwind.Entities.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\AdigeFramework.Northwind.Entities.pdb
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\AdigeFramework.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\NHibernate.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\EntityFramework.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\Iesi.Collections.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\AdigeFramework.pdb
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\AdigeFramework.dll.config
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\NHibernate.xml
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\EntityFramework.xml
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\bin\Debug\Iesi.Collections.xml
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\obj\Debug\AdigeFramework.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\obj\Debug\AdigeFramework.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\obj\Debug\AdigeFramework.Northwind.Entities.csproj.CopyComplete
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\obj\Debug\AdigeFramework.Northwind.Entities.dll
+C:\Users\feda1\source\repos\AdigeFramework\AdigeFramework.Northwind.Entities\obj\Debug\AdigeFramework.Northwind.Entities.pdb

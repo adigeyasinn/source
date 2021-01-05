@@ -1,0 +1,13 @@
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\bin\Debug\netcoreapp3.1\Hafta08_Events.exe
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\bin\Debug\netcoreapp3.1\Hafta08_Events.deps.json
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\bin\Debug\netcoreapp3.1\Hafta08_Events.runtimeconfig.json
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\bin\Debug\netcoreapp3.1\Hafta08_Events.runtimeconfig.dev.json
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\bin\Debug\netcoreapp3.1\Hafta08_Events.dll
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\bin\Debug\netcoreapp3.1\Hafta08_Events.pdb
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\obj\Debug\netcoreapp3.1\Hafta08_Events.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\obj\Debug\netcoreapp3.1\Hafta08_Events.AssemblyInfoInputs.cache
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\obj\Debug\netcoreapp3.1\Hafta08_Events.AssemblyInfo.cs
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\obj\Debug\netcoreapp3.1\Hafta08_Events.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\obj\Debug\netcoreapp3.1\Hafta08_Events.dll
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\obj\Debug\netcoreapp3.1\Hafta08_Events.pdb
+C:\Users\feda1\source\repos\Hafta08_Events\Hafta08_Events\obj\Debug\netcoreapp3.1\Hafta08_Events.genruntimeconfig.cache

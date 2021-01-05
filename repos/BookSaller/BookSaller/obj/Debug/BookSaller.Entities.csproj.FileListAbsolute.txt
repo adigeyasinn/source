@@ -1,0 +1,6 @@
+C:\Users\feda1\source\repos\BookSaller\BookSaller\bin\Debug\BookSaller.dll
+C:\Users\feda1\source\repos\BookSaller\BookSaller\bin\Debug\BookSaller.pdb
+C:\Users\feda1\source\repos\BookSaller\BookSaller\obj\Debug\BookSaller.Entities.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\BookSaller\BookSaller\obj\Debug\BookSaller.Entities.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\BookSaller\BookSaller\obj\Debug\BookSaller.dll
+C:\Users\feda1\source\repos\BookSaller\BookSaller\obj\Debug\BookSaller.pdb

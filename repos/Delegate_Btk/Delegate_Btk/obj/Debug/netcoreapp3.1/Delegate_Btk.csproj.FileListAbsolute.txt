@@ -1,0 +1,13 @@
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\bin\Debug\netcoreapp3.1\Delegate_Btk.exe
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\bin\Debug\netcoreapp3.1\Delegate_Btk.deps.json
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\bin\Debug\netcoreapp3.1\Delegate_Btk.runtimeconfig.json
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\bin\Debug\netcoreapp3.1\Delegate_Btk.runtimeconfig.dev.json
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\bin\Debug\netcoreapp3.1\Delegate_Btk.dll
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\bin\Debug\netcoreapp3.1\Delegate_Btk.pdb
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\obj\Debug\netcoreapp3.1\Delegate_Btk.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\obj\Debug\netcoreapp3.1\Delegate_Btk.AssemblyInfoInputs.cache
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\obj\Debug\netcoreapp3.1\Delegate_Btk.AssemblyInfo.cs
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\obj\Debug\netcoreapp3.1\Delegate_Btk.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\obj\Debug\netcoreapp3.1\Delegate_Btk.dll
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\obj\Debug\netcoreapp3.1\Delegate_Btk.pdb
+C:\Users\feda1\source\repos\Delegate_Btk\Delegate_Btk\obj\Debug\netcoreapp3.1\Delegate_Btk.genruntimeconfig.cache

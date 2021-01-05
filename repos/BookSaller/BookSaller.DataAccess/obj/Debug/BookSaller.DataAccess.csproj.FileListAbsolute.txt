@@ -1,0 +1,17 @@
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\bin\Debug\BookSaller.DataAccess.dll
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\bin\Debug\BookSaller.DataAccess.pdb
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\bin\Debug\BookSaller.dll
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\bin\Debug\BookSaller.pdb
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\obj\Debug\BookSaller.DataAccess.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\obj\Debug\BookSaller.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\obj\Debug\BookSaller.DataAccess.csproj.CopyComplete
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\obj\Debug\BookSaller.DataAccess.dll
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\obj\Debug\BookSaller.DataAccess.pdb
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\bin\Debug\BookSaller.DataAccess.dll.config
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\obj\Debug\BookSaller.DataAccess.Migrations.CreateDB.resources
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\obj\Debug\BookSaller.DataAccess.csproj.GenerateResource.cache
+C:\Users\feda1\source\repos\BookSaller\BookSaller.DataAccess\obj\Debug\BookSaller.DataAccess.Migrations.createAuthor.resources

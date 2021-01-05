@@ -1,0 +1,14 @@
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\bin\Debug\BookSeller.Business.dll
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\bin\Debug\BookSeller.Business.pdb
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\bin\Debug\BookSaller.DataAccess.dll
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\bin\Debug\BookSaller.dll
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\bin\Debug\BookSaller.DataAccess.pdb
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\bin\Debug\BookSaller.pdb
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\obj\Debug\BookSeller.Business.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\obj\Debug\BookSeller.Business.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\obj\Debug\BookSeller.Business.csproj.CopyComplete
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\obj\Debug\BookSeller.Business.dll
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\obj\Debug\BookSeller.Business.pdb
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\bin\Debug\BookSaller.DataAccess.dll.config
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\bin\Debug\EntityFramework.dll
+C:\Users\feda1\source\repos\BookSaller\BookSeller.Business\bin\Debug\EntityFramework.xml

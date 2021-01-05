@@ -1,0 +1,13 @@
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\bin\Debug\netcoreapp3.1\OgrenciLinqApp.exe
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\bin\Debug\netcoreapp3.1\OgrenciLinqApp.deps.json
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\bin\Debug\netcoreapp3.1\OgrenciLinqApp.runtimeconfig.json
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\bin\Debug\netcoreapp3.1\OgrenciLinqApp.runtimeconfig.dev.json
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\bin\Debug\netcoreapp3.1\OgrenciLinqApp.dll
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\bin\Debug\netcoreapp3.1\OgrenciLinqApp.pdb
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\obj\Debug\netcoreapp3.1\OgrenciLinqApp.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\obj\Debug\netcoreapp3.1\OgrenciLinqApp.AssemblyInfoInputs.cache
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\obj\Debug\netcoreapp3.1\OgrenciLinqApp.AssemblyInfo.cs
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\obj\Debug\netcoreapp3.1\OgrenciLinqApp.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\obj\Debug\netcoreapp3.1\OgrenciLinqApp.dll
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\obj\Debug\netcoreapp3.1\OgrenciLinqApp.pdb
+C:\Users\feda1\source\repos\OgrenciLinqApp\OgrenciLinqApp\obj\Debug\netcoreapp3.1\OgrenciLinqApp.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\feda1\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\feda1\\.nuget\\packages"
+    ]
+  }
+}

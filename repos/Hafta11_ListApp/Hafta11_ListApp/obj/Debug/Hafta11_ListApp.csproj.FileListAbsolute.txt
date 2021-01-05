@@ -1,0 +1,7 @@
+C:\Users\feda1\source\repos\Hafta11_ListApp\Hafta11_ListApp\bin\Debug\Hafta11_ListApp.exe.config
+C:\Users\feda1\source\repos\Hafta11_ListApp\Hafta11_ListApp\bin\Debug\Hafta11_ListApp.exe
+C:\Users\feda1\source\repos\Hafta11_ListApp\Hafta11_ListApp\bin\Debug\Hafta11_ListApp.pdb
+C:\Users\feda1\source\repos\Hafta11_ListApp\Hafta11_ListApp\obj\Debug\Hafta11_ListApp.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\Hafta11_ListApp\Hafta11_ListApp\obj\Debug\Hafta11_ListApp.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\Hafta11_ListApp\Hafta11_ListApp\obj\Debug\Hafta11_ListApp.exe
+C:\Users\feda1\source\repos\Hafta11_ListApp\Hafta11_ListApp\obj\Debug\Hafta11_ListApp.pdb

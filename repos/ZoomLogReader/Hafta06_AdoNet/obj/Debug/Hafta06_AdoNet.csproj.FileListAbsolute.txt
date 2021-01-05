@@ -1,0 +1,10 @@
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\bin\Debug\Hafta06_AdoNet.exe.config
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\bin\Debug\Hafta06_AdoNet.exe
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\bin\Debug\Hafta06_AdoNet.pdb
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\obj\Debug\Hafta06_AdoNet.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\obj\Debug\Hafta06_AdoNet.Form1.resources
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\obj\Debug\Hafta06_AdoNet.Properties.Resources.resources
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\obj\Debug\Hafta06_AdoNet.csproj.GenerateResource.cache
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\obj\Debug\Hafta06_AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\obj\Debug\Hafta06_AdoNet.exe
+C:\Users\feda1\source\repos\ZoomLogReader\Hafta06_AdoNet\obj\Debug\Hafta06_AdoNet.pdb

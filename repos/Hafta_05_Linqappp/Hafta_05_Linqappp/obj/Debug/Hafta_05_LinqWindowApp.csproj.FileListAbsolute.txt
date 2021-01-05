@@ -1,0 +1,10 @@
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\bin\Debug\Hafta_05_Linqappp.exe.config
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\bin\Debug\Hafta_05_Linqappp.exe
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\bin\Debug\Hafta_05_Linqappp.pdb
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\obj\Debug\Hafta_05_LinqWindowApp.csprojAssemblyReference.cache
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\obj\Debug\Hafta_05_Linqappp.Form1.resources
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\obj\Debug\Hafta_05_Linqappp.Properties.Resources.resources
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\obj\Debug\Hafta_05_LinqWindowApp.csproj.GenerateResource.cache
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\obj\Debug\Hafta_05_LinqWindowApp.csproj.CoreCompileInputs.cache
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\obj\Debug\Hafta_05_Linqappp.exe
+C:\Users\feda1\source\repos\Hafta_05_Linqappp\Hafta_05_Linqappp\obj\Debug\Hafta_05_Linqappp.pdb
